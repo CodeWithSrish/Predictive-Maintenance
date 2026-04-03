@@ -12,15 +12,16 @@
 
 <br/>
 
-<p align="center">
-  <img src="images/demo (2).png" width="600" title="Project Preview">
-</p>
 
 > *"During my time at **Rockwell Automation**, I saw firsthand how equipment downtime at plants like **IFFCO** doesn't just impact revenue — it disrupts entire supply chains. That's when predictive maintenance stopped being a data science problem for me, and became a responsibility."*
 
 </div>
 
 ---
+<p align="center">
+  <img src="images/demo (2).png" width="600" title="Project Preview">
+  <img src="images/demo (3).png" width="600" title="Project Preview">
+</p>
 
 ## 🎯 The Problem This Solves
 
