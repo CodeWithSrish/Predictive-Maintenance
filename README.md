@@ -152,7 +152,7 @@ Targets:  Machine Failure · TWF · HDF · PWF · OSF · RNF
 ## 👩‍💻 Author
 
 **Srishti Rajput**  
-*Data Scientist | Industrial AI Enthusiast*  
+*Data Scientist*  
 Inspired by real-world experience at **Rockwell Automation** and exposure to large-scale process operations at **IFFCO**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/srishti-rajput-629201263/)
