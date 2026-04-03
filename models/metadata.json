@@ -1,0 +1,24 @@
+{
+  "feature_cols": [
+    "Air_Temp_K",
+    "Process_Temp_K",
+    "RPM",
+    "Torque_Nm",
+    "Tool_Wear_min",
+    "Temp_Delta",
+    "Power_W",
+    "Strain_Index",
+    "Power_Out_of_Range",
+    "Low_Temp_Delta",
+    "High_Tool_Wear",
+    "Low_RPM",
+    "Type_encoded"
+  ],
+  "model_name": "LightGBM",
+  "decision_threshold": 0.3,
+  "smote_applied": true,
+  "training_samples": 15458,
+  "test_roc_auc": 0.9706262939958592,
+  "test_recall": 0.8529411764705882,
+  "test_f1": 0.7785234899328859
+}
